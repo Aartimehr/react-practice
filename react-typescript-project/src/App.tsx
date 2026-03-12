@@ -32,6 +32,9 @@ import { useState } from 'react'
       
     </table>
   </section>
+  <div>
+      <h2>What is React?</h2>
+  </div>
     </>
   )
 
