@@ -29,10 +29,11 @@ import { useState } from 'react'
         <td>DELETE</td>
         <td>Delete data from a server</td>
       </tr>
-      
     </table>
   </section>
   <div>
+      <h1>Merge conflicts</h1>
+      <h3>yes done.</h3>
       <h2>What is React?</h2>
   </div>
     </>
